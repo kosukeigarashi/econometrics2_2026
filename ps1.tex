@@ -20,15 +20,15 @@
 \setlength{\footskip}{5mm}
 
 \title{Ecomonmetrics II HW1}
-\author{29246004 Kosuke IGARASHI}
-\date{June 2025}
+\author{29-246004 Kosuke IGARASHI}
+\date{June 24 2025}
 
 \begin{document}
 
 \maketitle
 
 \section{Exercise 14.14}
-Assume $e_t$ and $u_t$ is white noise process\\ 
+Assume $e_t$ and $u_t$ is white noise process.\\ 
 We have
 \begin{center}
            \begin{align*}
@@ -41,8 +41,8 @@ We have
            \end{center}
 
 where $w_t=u_t+e_t-\alpha e_{t-1}$\\
-Because $e_t$ and $u_t$ are mutually independent i.i.d, {$w_t$} is strictly stationary.\\
-Recall $e_t$ and $u_t$ is white noise process\\ 
+$e_t$ and $u_t$ are mutually independent i.i.d, so {$w_t$} is strictly stationary.\\
+Because $e_t$ and $u_t$ is white noise process,\\ 
 $$
 \begin{aligned}
 v\left(w_t\right)= & v\left(u_t+e_t-\alpha e_{t-1}\right) \\
@@ -59,8 +59,7 @@ $$
 0 & & s \geq 2
 \end{array}\right.
 $$
-Therefore  ${w_t}$  is white noise.
-Thus we have $Y_t$ is an ARMA(1,1) process.
+Therefore  ${w_t}$  is white noise and $Y_t$ is an ARMA(1,1) process.
 
 \section{Exercise 14.15}
     Consider the AR(1) process \(Y_t =\alpha_0 + \alpha_1 Y_{t-1} + e_t\).
@@ -79,7 +78,7 @@ Thus we have $Y_t$ is an ARMA(1,1) process.
         Var(Y_t) = Var\left(\sum_{j=0}^\infty \alpha_1^j e_{t-j}\right)=\sum_{j=0}^\infty \alpha_1^{2j} Var(e_{t-j})=\sigma^2 \sum_{j=0}^\infty \alpha_1^{2j}=\frac{\sigma^2}{1-\alpha_1^2}.
     \end{align*}
 
-    Define the moment--generating function (MGF)
+    Define the moment--generating function,
     \[
         M_S(t) \;:=\; E\!\bigl[e^{tS}\bigr],
         \quad t\in \mathbb{R}.
@@ -136,7 +135,7 @@ Thus we have $Y_t$ is an ARMA(1,1) process.
     with the stated mean and variance.
 
 \section{Exercise 14.18}
-\textbf{Attached at the end of this document.}
+\textbf{Please refer to the end of this document.}
 
 \section{Exercise 16.1}
 
@@ -218,7 +217,7 @@ To test the hypothesis of unit root, we need to use ADF t-stat instead of ordina
 Then, ADF t-stat is $\frac{\hat{\alpha}-1}{s(\hat{\alpha})}=-2.5$, which is larger than -2.86. Hence, we cannot reject the hypothesis of the unit root.
 
 \section{Exercise 16.12}
-\textbf{Attached at the end of this document.}
+\textbf{Please refer to the end of this document.}
 
 \includepdf[
   pages = - ,        % すべてのページ。1-3 のように範囲指定も可

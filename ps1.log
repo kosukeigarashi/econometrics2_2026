@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.13)  24 JUN 2025 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.13)  24 JUN 2025 23:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -241,33 +241,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--46
 <14.18.pdf, id=28, 614.295pt x 794.97pt>
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf>
-Package pdftex.def Info: 14.18.pdf  used on input line 226.
+Package pdftex.def Info: 14.18.pdf  used on input line 225.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 <14.18.pdf, id=30, page=1, 614.295pt x 794.97pt>
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 1>
-Package pdftex.def Info: 14.18.pdf , page1 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 1>
-Package pdftex.def Info: 14.18.pdf , page1 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 [4]
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 1>
-Package pdftex.def Info: 14.18.pdf , page1 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 1>
-Package pdftex.def Info: 14.18.pdf , page1 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 1>
-Package pdftex.def Info: 14.18.pdf , page1 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [5
 
@@ -275,17 +275,17 @@ Package pdftex.def Info: 14.18.pdf , page1 used on input line 226.
 <14.18.pdf, id=76, page=2, 614.295pt x 794.97pt>
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 2>
-Package pdftex.def Info: 14.18.pdf , page2 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page2 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 2>
-Package pdftex.def Info: 14.18.pdf , page2 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page2 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 2>
-Package pdftex.def Info: 14.18.pdf , page2 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page2 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [6
 
@@ -293,17 +293,17 @@ Package pdftex.def Info: 14.18.pdf , page2 used on input line 226.
 <14.18.pdf, id=88, page=3, 614.295pt x 794.97pt>
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 3>
-Package pdftex.def Info: 14.18.pdf , page3 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page3 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 3>
-Package pdftex.def Info: 14.18.pdf , page3 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page3 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 14.18.pdf Graphic file (type pdf)
 <use 14.18.pdf, page 3>
-Package pdftex.def Info: 14.18.pdf , page3 used on input line 226.
+Package pdftex.def Info: 14.18.pdf , page3 used on input line 225.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [7
 
@@ -311,30 +311,30 @@ Package pdftex.def Info: 14.18.pdf , page3 used on input line 226.
 <16.12.pdf, id=97, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf>
-Package pdftex.def Info: 16.12.pdf  used on input line 231.
+Package pdftex.def Info: 16.12.pdf  used on input line 230.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 <16.12.pdf, id=99, page=1, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 1>
-Package pdftex.def Info: 16.12.pdf , page1 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page1 used on input line 230.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 1>
-Package pdftex.def Info: 16.12.pdf , page1 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page1 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 1>
-Package pdftex.def Info: 16.12.pdf , page1 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page1 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 1>
-Package pdftex.def Info: 16.12.pdf , page1 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page1 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 1>
-Package pdftex.def Info: 16.12.pdf , page1 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page1 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [8
 
@@ -342,17 +342,17 @@ Package pdftex.def Info: 16.12.pdf , page1 used on input line 231.
 <16.12.pdf, id=132, page=2, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 2>
-Package pdftex.def Info: 16.12.pdf , page2 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page2 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 2>
-Package pdftex.def Info: 16.12.pdf , page2 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page2 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 2>
-Package pdftex.def Info: 16.12.pdf , page2 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page2 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [9
 
@@ -360,17 +360,17 @@ Package pdftex.def Info: 16.12.pdf , page2 used on input line 231.
 <16.12.pdf, id=140, page=3, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 3>
-Package pdftex.def Info: 16.12.pdf , page3 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page3 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 3>
-Package pdftex.def Info: 16.12.pdf , page3 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page3 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 3>
-Package pdftex.def Info: 16.12.pdf , page3 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page3 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [10
 
@@ -378,17 +378,17 @@ Package pdftex.def Info: 16.12.pdf , page3 used on input line 231.
 <16.12.pdf, id=152, page=4, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 4>
-Package pdftex.def Info: 16.12.pdf , page4 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page4 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 4>
-Package pdftex.def Info: 16.12.pdf , page4 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page4 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 4>
-Package pdftex.def Info: 16.12.pdf , page4 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page4 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [11
 
@@ -396,17 +396,17 @@ Package pdftex.def Info: 16.12.pdf , page4 used on input line 231.
 <16.12.pdf, id=164, page=5, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 5>
-Package pdftex.def Info: 16.12.pdf , page5 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page5 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 5>
-Package pdftex.def Info: 16.12.pdf , page5 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page5 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 5>
-Package pdftex.def Info: 16.12.pdf , page5 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page5 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [12
 
@@ -414,17 +414,17 @@ Package pdftex.def Info: 16.12.pdf , page5 used on input line 231.
 <16.12.pdf, id=168, page=6, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 6>
-Package pdftex.def Info: 16.12.pdf , page6 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page6 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 6>
-Package pdftex.def Info: 16.12.pdf , page6 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page6 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 6>
-Package pdftex.def Info: 16.12.pdf , page6 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page6 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [13
 
@@ -432,17 +432,17 @@ Package pdftex.def Info: 16.12.pdf , page6 used on input line 231.
 <16.12.pdf, id=181, page=7, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 7>
-Package pdftex.def Info: 16.12.pdf , page7 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page7 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 7>
-Package pdftex.def Info: 16.12.pdf , page7 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page7 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 7>
-Package pdftex.def Info: 16.12.pdf , page7 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page7 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [14
 
@@ -450,17 +450,17 @@ Package pdftex.def Info: 16.12.pdf , page7 used on input line 231.
 <16.12.pdf, id=194, page=8, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 8>
-Package pdftex.def Info: 16.12.pdf , page8 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page8 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 8>
-Package pdftex.def Info: 16.12.pdf , page8 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page8 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 8>
-Package pdftex.def Info: 16.12.pdf , page8 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page8 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [15
 
@@ -468,17 +468,17 @@ Package pdftex.def Info: 16.12.pdf , page8 used on input line 231.
 <16.12.pdf, id=198, page=9, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 9>
-Package pdftex.def Info: 16.12.pdf , page9 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page9 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 9>
-Package pdftex.def Info: 16.12.pdf , page9 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page9 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 9>
-Package pdftex.def Info: 16.12.pdf , page9 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page9 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [16
 
@@ -486,17 +486,17 @@ Package pdftex.def Info: 16.12.pdf , page9 used on input line 231.
 <16.12.pdf, id=210, page=10, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 10>
-Package pdftex.def Info: 16.12.pdf , page10 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page10 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 10>
-Package pdftex.def Info: 16.12.pdf , page10 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page10 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 10>
-Package pdftex.def Info: 16.12.pdf , page10 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page10 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [17
 
@@ -504,17 +504,17 @@ Package pdftex.def Info: 16.12.pdf , page10 used on input line 231.
 <16.12.pdf, id=222, page=11, 614.295pt x 794.97pt>
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 11>
-Package pdftex.def Info: 16.12.pdf , page11 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page11 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 11>
-Package pdftex.def Info: 16.12.pdf , page11 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page11 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 
 File: 16.12.pdf Graphic file (type pdf)
 <use 16.12.pdf, page 11>
-Package pdftex.def Info: 16.12.pdf , page11 used on input line 231.
+Package pdftex.def Info: 16.12.pdf , page11 used on input line 230.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [18
 
@@ -527,13 +527,13 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  4388 strings out of 473190
  65726 string characters out of 5715800
- 477249 words of memory out of 5000000
+ 477253 words of memory out of 5000000
  27594 multiletter control sequences out of 15000+600000
  566700 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,77p,289b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ps1.pdf (18 pages, 419026 bytes).
+Output written on ps1.pdf (18 pages, 419468 bytes).
 PDF statistics:
  298 PDF objects out of 1000 (max. 8388607)
  182 compressed objects within 2 object streams

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1750775516.46577 "/Users/igarashi_kosuke/Documents/Github/econometrics2_2026/ps1.tex" "ps1.pdf" "ps1" 1750775516.96321 0
-  "/Users/igarashi_kosuke/Documents/Github/econometrics2_2026/ps1.tex" 1750775515.80304 8461 1268a6bdb20f3efa346731321d038db9 ""
+["pdflatex"] 1750775931.24241 "/Users/igarashi_kosuke/Documents/Github/econometrics2_2026/ps1.tex" "ps1.pdf" "ps1" 1750775931.72581 0
+  "/Users/igarashi_kosuke/Documents/Github/econometrics2_2026/ps1.tex" 1750775931.14558 8456 26d9df372de07f8fbf02ddf551b76b19 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -84,8 +84,8 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "14.18.pdf" 1750775510.70704 155262 b35f4c7bee64fc3c0d9e00b279279d4b ""
   "16.12.pdf" 1750775510.71594 201097 51f8dbfcd86552f3f94181b16a0fd173 ""
-  "ps1.aux" 1750775516.89263 936 8fccae1e494d27f4db86fbefdf742298 "pdflatex"
-  "ps1.tex" 1750775515.80304 8461 1268a6bdb20f3efa346731321d038db9 ""
+  "ps1.aux" 1750775931.6548 936 8fccae1e494d27f4db86fbefdf742298 "pdflatex"
+  "ps1.tex" 1750775931.14558 8456 26d9df372de07f8fbf02ddf551b76b19 ""
   (generated)
   "ps1.aux"
   "ps1.log"
